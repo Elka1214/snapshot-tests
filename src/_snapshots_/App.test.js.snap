@@ -1,0 +1,41 @@
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "margin": "auto",
+        "width": "30%",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      />
+      <div
+        className="card-subtitle h6"
+      >
+        (
+        )
+      </div>
+      <p
+        className="card-text"
+      />
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        type="button"
+      >
+        Go to Profile
+      </button>
+    </div>
+  </div>
+</div>
